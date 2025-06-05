@@ -44,7 +44,7 @@
 <div align="center">
   <a href="https://youthful-mink-de2.notion.site/UESW-209af74a332a803894a2f0831444148b?source=copy_link">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&letterSpacing=-0.7px&pause=1000&color=FFD35B&center=true&vCenter=true&width=435&lines=UESW" alt="Typing SVG" />
-    <br/> ✳️ You can click to visit the project page!
+    <br/> <a style="text-decoration: none; color: inherit;">✳️ Click here to visit the project page!</a>
   </a>
 </div>
 <br/>
