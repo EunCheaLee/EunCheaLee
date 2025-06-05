@@ -42,7 +42,10 @@
 <br/>
 <h3 align="center">🗃️ Projects 🗃️</h3>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&letterSpacing=-0.7px&pause=1000&color=FFD35B&center=true&vCenter=true&width=435&lines=UESW" alt="Typing SVG" /></a>
+  <a href="https://youthful-mink-de2.notion.site/UESW-209af74a332a803894a2f0831444148b?source=copy_link">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&letterSpacing=-0.7px&pause=1000&color=FFD35B&center=true&vCenter=true&width=435&lines=UESW" alt="Typing SVG" />
+    <br/> ✳️ You can click to visit the project page!
+  </a>
 </div>
 <br/>
 <h3 align="center">📫 Contact 📫</h3>
