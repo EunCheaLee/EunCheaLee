@@ -75,5 +75,5 @@
 <br/>
 <h3 align="center">📓 Top Langs 📓</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunCheaLee&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunchealee&layout=compact" alt="Top Langs" />
 </div>
