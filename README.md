@@ -68,7 +68,7 @@
   <br/>
   <a>
     <img src="https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white"/>
-    <a>ECL0527@google.com</a>
+    <a>ECLEE527@google.com</a>
   </a>
   
 </div>
