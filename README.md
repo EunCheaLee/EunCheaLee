@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>
     <br/>
-    <img src="https://img.shields.io/badge/Photoshop-000080?style=flat-square&logo=photoshop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe Photoshop-000080?style=flat-square&logo=photoshop&logoColor=white"/>
     <img src="https://img.shields.io/badge/Clip Studio-868e96?style=flat-square&logo=photoshop&logoColor=white"/>
   </p>
 </div>
@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/illustrator-f49303?style=flat-square&logo=illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/After Effects-e0dbef?style=flat-square&logo=aftereffect&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe illustrator-f49303?style=flat-square&logo=illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe After Effects-e0dbef?style=flat-square&logo=aftereffect&logoColor=white"/>
 </div>
 <br/>
 <h3 align="center">🛠 Tools 🛠</h3>
