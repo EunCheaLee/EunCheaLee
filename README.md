@@ -10,6 +10,7 @@
   <br/><p>I want to become a developer, so I'm currently studying backend development.</p>
   <p>My hobbies are drawing and cooking, and I'm also learning
     <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/> on my own.</p>
+  <p>My profile picture🍩 is something I created in Blender.</p>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
