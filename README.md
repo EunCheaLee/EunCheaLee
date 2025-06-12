@@ -78,3 +78,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunchealee&layout=compact" alt="Top Langs" />
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EunCheaLee&theme=minimal" alt="Activity Graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=EunCheaLee&amp;theme=gruvbox_light" style="max-width: 100%;">
