@@ -78,4 +78,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunchealee&layout=compact" alt="Top Langs" />
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EunCheaLee&theme=minimal" alt="Activity Graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=EunCheaLee&amp;theme=gruvbox_light" style="max-width: 100%;">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EunCheaLee&theme=minimal" alt="Activity Graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=EunCheaLee&amp;theme=gruvbox_light" style="max-width: 100%;">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EunCheaLee&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>
+</div>
